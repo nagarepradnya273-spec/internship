@@ -1,0 +1,22 @@
+h1 {
+    display: flex;
+    color: blueviolet;
+    font-family: fantasy;
+    /* justify-content: ; */
+    /* align-items: center; */
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+}
+
+.new {
+    border: 2px solid black;
+    border-color: blue;
+}
+
+#old {
+    border-color: red;
+}
